@@ -20,3 +20,6 @@ Intenté, pero luego de toparme con muchas imposiciones de youtube en cuanto a s
 
 ## ¿que quieren decir seg1, seg2, etc... en algunos programas?
 Github me deja solamente subir archivos de no más de 20MB, por lo que algunos programas pueden estar divididos en varias partes, si los pones en una playlist, ni te vas a dar cuenta, ademas al estar bien nombrados, no tenes que hacer nada para que queden en orden y escucharlos como si fuesen un archivo solo. Si queres unirlos (por alguna razon) hay montones de herramientas para hacerlo, una bastante buena es "LosslessCut" que permite no solo dividir, sino tambien unir archivos.
+
+## hey! no estan TODOS los programas!
+...y, no... lamentablemente no está la obra completa, esto es un archivo hecho a pulmón y con lo que pude encontrar con una calidad decente. En Venganzas del pasado hay más, pero con una calidad tan mala que se hacen imposibles de escuchar. Quizas en un futuro intente "recuperarlos" con algunos filtros de audio y demás... mientras, haga uso del mismo, señora.
