@@ -11,7 +11,7 @@ Busco preservar la obra de Alejandro Dolina e hijos y compartir con otras person
 
 
 ## ...como será la laguna, que el chancho la cruza al trote.
-Los programas __no contienen tandas comerciales__ y la *gran* mayoria tampoco tiene el __segmento musical final.__ 
+Los programas __no contienen tandas comerciales__ ni el __segmento musical final.__ En algunos casos las canciones con las que cierran los informes están, pero en la *mayoria de los casos*, tambien fue removida.
 Son una compilacion de archivos desde varias fuentes, mayormente "Venganzas del pasado" y algunos canales de youtube. 
 Cual es el valor agregado? acá no hay redes sociales ni propagandas, son mas faciles de bajar y los audios tienen tags y nombres descriptivos en su mayoria; cortito y al pie. Ademas __fueron procesados con un filtro anti ruido que eliminó buena parte del ruido de estatica en las grabaciones mas viejas.__
 
