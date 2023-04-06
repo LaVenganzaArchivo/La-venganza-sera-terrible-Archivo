@@ -31,3 +31,5 @@ Lamentablemente no está la obra completa, esto es un archivo hecho a pulmón y 
 - Dentro de los servicios fuera de lo mainstream (youtube, etc) es conocido.
 - Es facil descargar los programas desde acá, más si usas IDM (internet download manager).
 - Espacio ilimitado de hosting (siempre y cuando los archivos sean de menos de 25mb) y sin peligro de eliminacion por falta de trafico.
+- Gratis.
+- No tengo que "verificar" la cuenta, ni someterme a ninguna de esas trampas chupadoras de datos. No me obligan a dejar datos personales.
