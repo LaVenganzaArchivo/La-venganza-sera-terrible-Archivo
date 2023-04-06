@@ -24,3 +24,10 @@ En resumen, no son los segmentos del programa, sino que son partes de un mismo t
 
 ## No estan TODOS los programas.
 Lamentablemente no está la obra completa, esto es un archivo hecho a pulmón y con lo que pude encontrar con una calidad decente. En Venganzas del pasado hay más, pero con una calidad tan mala que se (me) hacen imposibles de escuchar. Quizas en un futuro intente "recuperarlos" con algunos filtros de audio y demás... mientras, haga uso del mismo, señora.
+
+## Por qué usas github?
+- Los americanos no estan censurando links a github en internet (por ahora).
+- Cumple las necesidades de este "proyecto" (hosting)
+- Dentro de los servicios fuera de lo mainstream (youtube, etc) es conocido.
+- Es facil descargar los programas desde acá, más si usas IDM (internet download manager).
+- Espacio ilimitado de hosting (siempre y cuando los archivos sean de menos de 25mb) y sin peligro de eliminacion por falta de trafico.
