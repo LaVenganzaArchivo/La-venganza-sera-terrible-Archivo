@@ -34,9 +34,6 @@ Lamentablemente no está la obra completa, esto es un archivo hecho a pulmón y 
 - Gratis.
 - No tengo que "verificar" la cuenta, ni someterme a ninguna de esas trampas chupadoras de datos. No me obligan a dejar datos personales.
 
-## Necesitás un usuario de github para descargarlos.
-Todo lo gratis siempre tiene algo malo. Podes crearte un usuario con data falsa y listo. Usá alguna pagina para crearte un correo descartable [(use esta si no sabe, señora)](https://10minutemail.net/) y usá ese correo para registrarte. No use su nombre real, ni ningun dato personal, señora.
-
 ## "Como los descargo todos?"
 https://user-images.githubusercontent.com/129971008/230913793-9786fbcc-d927-4291-8a02-7f4c48928098.mp4
 
