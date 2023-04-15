@@ -37,7 +37,5 @@ Lamentablemente no está la obra completa, esto es un archivo hecho a pulmón y 
 ## "Como los descargo todos?"
 https://user-images.githubusercontent.com/129971008/230913793-9786fbcc-d927-4291-8a02-7f4c48928098.mp4
 
-## "Como descargo de a uno?"
-https://user-images.githubusercontent.com/129971008/230913841-d342bc05-d7c8-477d-bee2-5ff514ba6f50.mp4
 
 
