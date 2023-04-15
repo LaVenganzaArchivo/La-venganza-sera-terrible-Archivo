@@ -15,7 +15,7 @@ Los programas __no contienen tandas comerciales__ ni el __segmento musical final
 Son una compilacion de archivos desde varias fuentes, mayormente "Venganzas del pasado" y algunos canales de youtube. 
 Cual es el valor agregado? acá no hay redes sociales ni propagandas, son mas faciles de bajar y los audios tienen tags y nombres descriptivos en su mayoria; cortito y al pie. Ademas __fueron procesados con un filtro anti ruido que eliminó buena parte del ruido de estatica en las grabaciones mas viejas.__
 
-## "..por qué no los subis a youtube?"
+## "¿..por qué no los subis a youtube?"
 Intenté, pero luego de toparme con muchas imposiciones de youtube en cuanto a sus reglas, incluida la necesidad de "verificar" la identidad de la cuenta (adiós privacidad⚠) pensé que lo mejor seria subir los programas directamente a un archivo, sin re-codificar y no depender de youtube. Lamento no poder usar esa plataforma para hacer llegar el programa a mas gente que no sabe de la existencia de github u otras plataformas, pero creo que este repositorio puede servir de fuente a alguien que esté dispuesto a hacerlo en youtube o en algun otro lado. Además de todo esto, parece que estan buscando activamente los canales de youtube que retransmiten el programa de alguna forma y estan frenando su operatoria, probablemente denunciando plagio.
 
 ## [seg1, seg2, etc] en algunos programas:
@@ -34,8 +34,10 @@ Lamentablemente no está la obra completa, esto es un archivo hecho a pulmón y 
 - Gratis.
 - No tengo que "verificar" la cuenta, ni someterme a ninguna de esas trampas chupadoras de datos. No me obligan a dejar datos personales.
 
-## "Como los descargo todos?"
+## "¿Como los descargo todos?"
 https://user-images.githubusercontent.com/129971008/230913793-9786fbcc-d927-4291-8a02-7f4c48928098.mp4
 
+## "¿Como bajo de a uno?"
+https://user-images.githubusercontent.com/129971008/232246596-a2beea15-01e2-4e9d-a225-30b9ec3003e3.mp4
 
 
