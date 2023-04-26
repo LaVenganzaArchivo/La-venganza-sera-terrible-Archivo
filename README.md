@@ -1,7 +1,7 @@
 # La Venganza Será Terrible.
 Archivo de los programas de la Venganza Será Terrible de Alejandro Dolina. 
 Este archivo NO ES OFICIAL y no se monetiza de ninguna forma.
-Busco preservar la obra de Alejandro Dolina e hijos y compartir con otras personas los archivos de manera facil y gratuita.
+Busco preservar la obra de Alejandro Dolina y compartir con otras personas los archivos de manera facil y gratuita.
 
 
 ![cover](https://user-images.githubusercontent.com/129971008/230121694-4c171696-2b0a-457e-b1ed-b0083489d38f.jpg)
