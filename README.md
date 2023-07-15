@@ -27,8 +27,9 @@ Ahora que hay plataformas oficiales de LVST, estaré subiendo audios limpios de 
 
 ## "¿..por qué no los subis a youtube?"
 ~Intenté, pero luego de toparme con muchas imposiciones de youtube en cuanto a sus reglas, incluida la necesidad de "verificar" la identidad de la cuenta (adiós privacidad⚠) pensé que lo mejor seria subir los programas directamente a un archivo, sin re-codificar y no depender de youtube. Lamento no poder usar esa plataforma para hacer llegar el programa a mas gente que no sabe de la existencia de github u otras plataformas, pero creo que este repositorio puede servir de fuente a alguien que esté dispuesto a hacerlo en youtube o en algun otro lado. Además de todo esto, parece que estan buscando activamente los canales de youtube que retransmiten el programa de alguna forma y estan frenando su operatoria, probablemente denunciando plagio.~
-  
-EDICION 16-05-2023: La verdad que viendo el tipo de público que atrae esa plataforma al programa, aunque pudiera subirlos sin problemas, no lo haría de todas formas. Por favor no suban estos audios allí. Gracias.
+
+## 2023 Julio UPDATE:
+Hay un canal oficial ahora.
 
 ## [seg1, seg2, etc] en algunos programas:
 Github me deja solamente subir archivos de no más de 25MB, por lo que algunos programas pueden estar divididos en varias partes, si los ponés en una playlist, ni te vas a dar cuenta, además al estar bien nombrados, no tenes que hacer nada para que queden en orden y escucharlos como si fuesen un archivo solo. Si querés unirlos, hay montones de herramientas para hacerlo: ["LosslessCut"](https://github.com/mifi/lossless-cut) permite no solo dividir, sino tambien unir archivos.
