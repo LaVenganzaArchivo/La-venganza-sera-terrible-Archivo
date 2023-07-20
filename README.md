@@ -22,7 +22,7 @@ Como no puedo eliminar las partes automaticamente (que en lo personal no me gust
 
 ## 2023 Julio UPDATE:
 Hay canales oficiales ahora, por fortuna, en el canal de youtube decidieron separar la sección del Sordo Gancé (sección musical) del resto del programa separando los audios en dos haciendo que nuevamente pueda subir los programas sin la sección musical ni propagandas. Estarán en la carpeta "2023 SIN PUBLICIDAD".
-¿Y para qué, si ya estan en youtube? Respuesta: esta pagina funciona de archivo del programa junto con V.D.P. En un futuro, cuando el programa ya no se emita, no sabemos que puede pasar con los canales oficiales.
+¿Y para qué, si ya estan en youtube? Respuesta: esta pagina funciona de archivo del programa junto con V.D.P. (aunque no tenemos relación). En un futuro, cuando el programa ya no se emita, no sabemos que puede pasar con los canales oficiales.
 
 
 
