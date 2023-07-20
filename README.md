@@ -29,7 +29,7 @@ Ahora que hay plataformas oficiales de LVST, estaré subiendo audios limpios de 
 ~Intenté, pero luego de toparme con muchas imposiciones de youtube en cuanto a sus reglas, incluida la necesidad de "verificar" la identidad de la cuenta (adiós privacidad⚠) pensé que lo mejor seria subir los programas directamente a un archivo, sin re-codificar y no depender de youtube. Lamento no poder usar esa plataforma para hacer llegar el programa a mas gente que no sabe de la existencia de github u otras plataformas, pero creo que este repositorio puede servir de fuente a alguien que esté dispuesto a hacerlo en youtube o en algun otro lado. Además de todo esto, parece que estan buscando activamente los canales de youtube que retransmiten el programa de alguna forma y estan frenando su operatoria, probablemente denunciando plagio.~
 
 ## 2023 Julio UPDATE:
-Hay canales oficiales ahora, por fortuna, en el canal de youtube decidieron separar la sección del Sordo Gancé (sección musical) del resto del programa separando los audios en dos haciendo que nuevamente puedo subir los programas sin la sección musical ni propagandas. 
+Hay canales oficiales ahora, por fortuna, en el canal de youtube decidieron separar la sección del Sordo Gancé (sección musical) del resto del programa separando los audios en dos haciendo que nuevamente pueda subir los programas sin la sección musical ni propagandas. Estarán en la carpeta "2023 SIN PUBLICIDAD".
 ¿Y para qué, si ya estan en youtube? Respuesta: esta pagina funciona de archivo del programa junto con V.D.P. En un futuro, cuando el programa ya no se emita, no sabemos que puede pasar con los canales oficiales.
 
 ## [seg1, seg2, etc] en algunos programas:
