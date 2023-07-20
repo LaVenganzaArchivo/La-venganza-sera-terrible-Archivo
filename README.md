@@ -19,18 +19,17 @@ Cual es el valor agregado? acá no hay redes sociales ni propagandas, son mas fa
 ~Estaré subiendo los programas del 2023 y con ellos intentaré comenzar subir los programas nuevos tambien. Con esto en mente quiero hacer algunas aclaraciones. 
 Estos programas __SI contienen las tandas publicitarias y partes del segmento musical, ademas de las canciones que cierran los informes__.
 Como no puedo eliminar las partes automaticamente (que en lo personal no me gustan y sé que a muchos tampoco) __no me queda otra opción que grabar el programa de manera "cruda", salteando buena parte de la intro y la <interminable> agenda de los primeros minutos y buena parte del final del programa, donde comienza "el bailongo".__ Estos cortes se hacen a un horario determinado por lo que muchas veces quedarán partes cortadas. Si alguien desea colaborar con ideas / scripts para realizar los cortes automaticamente (python/batch/powershell) por favor dejen sus sugerencias en la seccion de "issues". Otra cuestión es que github no me permite subir los archivos de manera automatica, por lo que esto se hará "a mano". Por ultimo, creo que el programa está en su ocaso y desde hace unos años sufrió una "modernizacion" hacia estos tiempos tan llenos de censura, extremismos y nulos de raciocinio (basta con escuchar los mensajes de los oyentes) por lo que estas ultimas temporadas, están solo para ser conservadas y con un esfuerzo minimo. Cualquier persona que desee ayudar con audios, tags, etc sientanse libres de contactarme por la sección "issues".~
-## 2023 Julio UPDATE:
-Ahora que hay plataformas oficiales de LVST, estaré subiendo audios limpios de propagandas nuevamente tomados de youtube.
 
+## 2023 Julio UPDATE:
+Hay canales oficiales ahora, por fortuna, en el canal de youtube decidieron separar la sección del Sordo Gancé (sección musical) del resto del programa separando los audios en dos haciendo que nuevamente pueda subir los programas sin la sección musical ni propagandas. Estarán en la carpeta "2023 SIN PUBLICIDAD".
+¿Y para qué, si ya estan en youtube? Respuesta: esta pagina funciona de archivo del programa junto con V.D.P. En un futuro, cuando el programa ya no se emita, no sabemos que puede pasar con los canales oficiales.
 
 
 
 ## "¿..por qué no los subis a youtube?"
 ~Intenté, pero luego de toparme con muchas imposiciones de youtube en cuanto a sus reglas, incluida la necesidad de "verificar" la identidad de la cuenta (adiós privacidad⚠) pensé que lo mejor seria subir los programas directamente a un archivo, sin re-codificar y no depender de youtube. Lamento no poder usar esa plataforma para hacer llegar el programa a mas gente que no sabe de la existencia de github u otras plataformas, pero creo que este repositorio puede servir de fuente a alguien que esté dispuesto a hacerlo en youtube o en algun otro lado. Además de todo esto, parece que estan buscando activamente los canales de youtube que retransmiten el programa de alguna forma y estan frenando su operatoria, probablemente denunciando plagio.~
 
-## 2023 Julio UPDATE:
-Hay canales oficiales ahora, por fortuna, en el canal de youtube decidieron separar la sección del Sordo Gancé (sección musical) del resto del programa separando los audios en dos haciendo que nuevamente pueda subir los programas sin la sección musical ni propagandas. Estarán en la carpeta "2023 SIN PUBLICIDAD".
-¿Y para qué, si ya estan en youtube? Respuesta: esta pagina funciona de archivo del programa junto con V.D.P. En un futuro, cuando el programa ya no se emita, no sabemos que puede pasar con los canales oficiales.
+
 
 ## [seg1, seg2, etc] en algunos programas:
 Github me deja solamente subir archivos de no más de 25MB, por lo que algunos programas pueden estar divididos en varias partes, si los ponés en una playlist, ni te vas a dar cuenta, además al estar bien nombrados, no tenes que hacer nada para que queden en orden y escucharlos como si fuesen un archivo solo. Si querés unirlos, hay montones de herramientas para hacerlo: ["LosslessCut"](https://github.com/mifi/lossless-cut) permite no solo dividir, sino tambien unir archivos.
