@@ -15,20 +15,16 @@ Los programas hasta el 2023 __no contienen tandas comerciales__ ni el __segmento
 Son una compilacion de archivos desde varias fuentes, mayormente "Venganzas del pasado" y algunos canales de youtube. 
 Cual es el valor agregado? acá no hay redes sociales ni propagandas, son mas faciles de bajar como un paquete armado con todos los audios y tienen tags con nombres descriptivos en su mayoria; cortito y al pie. Además __fueron procesados con un filtro anti ruido que eliminó buena parte del ruido de estatica mas fuerte en las grabaciones mas viejas y un EQ para intentar rescatar la claridad de la voz en algunos casos.__
 
-## 2023 en adelante...
-~Estaré subiendo los programas del 2023 y con ellos intentaré comenzar subir los programas nuevos tambien. Con esto en mente quiero hacer algunas aclaraciones. 
-Estos programas __SI contienen las tandas publicitarias y partes del segmento musical, ademas de las canciones que cierran los informes__.
-Como no puedo eliminar las partes automaticamente (que en lo personal no me gustan y sé que a muchos tampoco) __no me queda otra opción que grabar el programa de manera "cruda", salteando buena parte de la intro y la <interminable> agenda de los primeros minutos y buena parte del final del programa, donde comienza "el bailongo".__ Estos cortes se hacen a un horario determinado por lo que muchas veces quedarán partes cortadas. Si alguien desea colaborar con ideas / scripts para realizar los cortes automaticamente (python/batch/powershell) por favor dejen sus sugerencias en la seccion de "issues". Otra cuestión es que github no me permite subir los archivos de manera automatica, por lo que esto se hará "a mano". Por ultimo, creo que el programa está en su ocaso y desde hace unos años sufrió una "modernizacion" hacia estos tiempos tan llenos de censura, extremismos y nulos de raciocinio (basta con escuchar los mensajes de los oyentes) por lo que estas ultimas temporadas, están solo para ser conservadas y con un esfuerzo minimo. Cualquier persona que desee ayudar con audios, tags, etc sientanse libres de contactarme por la sección "issues".~
+## ¡Soy un oyente nuevo! ¿por donde empiezo?
+Escuchá las temporadas del 199x-2008. Haceme caso, era otro programa. Después (si querés) escuchá el resto.
 
 ## 2023 Julio UPDATE:
 Hay canales oficiales ahora, por fortuna, en el canal de youtube decidieron separar la sección del Sordo Gancé (sección musical) del resto del programa separando los audios en dos haciendo que nuevamente pueda subir los programas sin la sección musical ni propagandas. Estarán en la carpeta "2023 SIN PUBLICIDAD".
 ¿Y para qué, si ya estan en youtube? Respuesta: esta pagina funciona de archivo del programa junto con V.D.P. (aunque no tenemos relación). En un futuro, cuando el programa ya no se emita, no sabemos que puede pasar con los canales oficiales.
 
-
-
-## "¿..por qué no los subis a youtube?"
-~Intenté, pero luego de toparme con muchas imposiciones de youtube en cuanto a sus reglas, incluida la necesidad de "verificar" la identidad de la cuenta (adiós privacidad⚠) pensé que lo mejor seria subir los programas directamente a un archivo, sin re-codificar y no depender de youtube. Lamento no poder usar esa plataforma para hacer llegar el programa a mas gente que no sabe de la existencia de github u otras plataformas, pero creo que este repositorio puede servir de fuente a alguien que esté dispuesto a hacerlo en youtube o en algun otro lado. Además de todo esto, parece que estan buscando activamente los canales de youtube que retransmiten el programa de alguna forma y estan frenando su operatoria, probablemente denunciando plagio.~
-
+## 2023 Septiembre UPDATE:
+No seguiré subiendo los programas nuevos. Decidí que es un gasto de tiempo ya que el programa perdió toda gracia y chispa.
+Dejaré los programas de 2023 y otros años funestos como historico de todas maneras, como para que quede registro de su declive.
 
 
 ## [seg1, seg2, etc] en algunos programas:
