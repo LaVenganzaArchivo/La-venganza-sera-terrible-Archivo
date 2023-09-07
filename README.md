@@ -18,10 +18,6 @@ Cual es el valor agregado? acá no hay redes sociales ni propagandas, son mas fa
 ## ¡Soy un oyente nuevo! ¿por donde empiezo?
 Escuchá las temporadas del 199x-2008. Haceme caso, era otro programa. Después (si querés) escuchá el resto.
 
-## 2023 Julio UPDATE:
-Hay canales oficiales ahora, por fortuna, en el canal de youtube decidieron separar la sección del Sordo Gancé (sección musical) del resto del programa separando los audios en dos haciendo que nuevamente pueda subir los programas sin la sección musical ni propagandas. Estarán en la carpeta "2023 SIN PUBLICIDAD".
-¿Y para qué, si ya estan en youtube? Respuesta: esta pagina funciona de archivo del programa junto con V.D.P. (aunque no tenemos relación). En un futuro, cuando el programa ya no se emita, no sabemos que puede pasar con los canales oficiales.
-
 ## 2023 Septiembre UPDATE:
 No seguiré subiendo los programas nuevos. Decidí que es un gasto de tiempo ya que el programa perdió toda gracia y chispa.
 Dejaré los programas de 2023 y otros años funestos como historico de todas maneras, como para que quede registro de su declive.
