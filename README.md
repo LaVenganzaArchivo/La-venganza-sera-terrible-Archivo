@@ -21,7 +21,7 @@ Escuchá las temporadas del 199x-2008. Haceme caso, era otro programa. Después 
 ## 2023 Septiembre UPDATE:
 No seguiré subiendo los programas nuevos. Decidí que es un gasto de tiempo ya que el programa perdió toda gracia y chispa.
 Dejaré los programas de 2023 y otros años funestos como historico de todas maneras, como para que quede registro de su declive.
-Podría resultar interesante para aquellos que quieran comparar lo que era el programa antes de las agendas woke americanas "🎵 queeeeee supiiiiiimos conseguiiiiiiiir... 🥁", hacer la comparación de autocensura en el programa entre los años 199X-2007 y la actualidad. Y así la corrección moral absurda y autoritaria de este mundo Orwelliano, nos va quitando todo de a poco.
+Podría resultar interesante para aquellos que quieran comparar lo que era el programa antes de las agendas woke americanas "🎵 queeeeee supiiiiiimos conseguiiiiiiiir... 🥁", hacer la comparación de autocensura en el programa entre los años 199X-2007 y la actualidad. Y así la corrección moral absurda y autoritaria de este mundo Orwelliano y fascista pero con carita de bueno, nos va quitando todo de a poco.
 
 
 ## [seg1, seg2, etc] en algunos programas:
